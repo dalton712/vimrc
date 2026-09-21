@@ -1,5 +1,5 @@
 let mapleader = " "    
-nmoremap <leader>cd :Ex<CR
+nnoremap <leader>ok :wq   
 nmoremap <C-m> j
 nmoremap <C-i> k
 
