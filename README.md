@@ -6,3 +6,5 @@ alt + k = going down a line
 alt + i = going up a line
 alt + l = going right
 alt + j = going left
+
+Will keep updating for like a month
